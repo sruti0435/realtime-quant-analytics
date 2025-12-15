@@ -1,0 +1,3 @@
+SYMBOLS = ["BTCUSDT", "ETHUSDT"]
+ROLLING_WINDOW = 60
+DB_NAME = "ticks.db"
