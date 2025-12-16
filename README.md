@@ -202,12 +202,6 @@ This project utilized Claude (Anthropic) for:
 
 ---
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
----
-
 ## 👤 Author
 
 **Sruti Totawad**
